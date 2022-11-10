@@ -1,10 +1,10 @@
-# weather forcast for districts
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+weather forcast for districts
 
 In the project directory, you can run:
 
